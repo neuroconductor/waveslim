@@ -4,3 +4,7 @@
 ^DESCRIPTION\.bak$
 data/readdata\.R$
 data/old_txt\.zip$
+^\.github$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
