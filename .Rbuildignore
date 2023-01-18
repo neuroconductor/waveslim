@@ -5,3 +5,7 @@
 data/readdata\.R$
 data/old_txt\.zip$
 ^.idea$
+^\.github$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
